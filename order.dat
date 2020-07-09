@@ -1,0 +1,15 @@
+------------------------------------
+Order 
+2__Student__Economy Class__BeiJingToShangHai__570.0 (60%off means 打六折)
+3__Normal People__Business Class__HangZhouToChengDu__999.0
+
+TotalCost = 3681.0
+------------------------------------
+Order 
+5__Normal People__First Class__BeiJingToShangHai__2430.0
+
+TotalCost = 12150.0
+
+这次保存共保存了2个订单。
+
+
